@@ -4,8 +4,6 @@ repo: uptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: galt.me
     url: https://galt.me
   - name: blog.galt.me
@@ -22,6 +20,8 @@ sites:
     url: https://code.galt.me
   - name: speed.galt.me
     url: https://speed.galt.me
+  - name: Google
+    url: https://www.google.com
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -30,7 +30,7 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introTitle: "**Uptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a service status page. No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
