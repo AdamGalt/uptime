@@ -18,8 +18,6 @@ sites:
     url: https://text.galt.me
   - name: code.galt.me
     url: https://code.galt.me
-  - name: speed.galt.me
-    url: https://speed.galt.me
   - name: Google
     url: https://www.google.com
 
