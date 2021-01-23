@@ -42,19 +42,19 @@
     "url": "https://tv.galt.me",
     "icon": "https://favicons.githubusercontent.com/tv.galt.me",
     "slug": "tv-galt-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 589,
-    "timeDay": 534,
-    "timeWeek": 551,
-    "timeMonth": 589,
-    "timeYear": 589,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 583,
+    "timeDay": 489,
+    "timeWeek": 534,
+    "timeMonth": 583,
+    "timeYear": 583,
     "dailyMinutesDown": {
-      "2021-01-23": 0
+      "2021-01-23": 60
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://music.galt.me",
     "icon": "https://favicons.githubusercontent.com/music.galt.me",
     "slug": "music-galt-me",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 592,
-    "timeDay": 535,
-    "timeWeek": 538,
-    "timeMonth": 592,
-    "timeYear": 592,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "95.86%",
+    "uptimeWeek": "99.41%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 587,
+    "timeDay": 497,
+    "timeWeek": 525,
+    "timeMonth": 587,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2021-01-23": 0
+      "2021-01-23": 60
     }
   },
   {
