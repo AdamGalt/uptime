@@ -10,8 +10,6 @@ sites:
     url: https://blog.galt.me
   - name: tv.galt.me
     url: https://tv.galt.me
-  - name: music.galt.me
-    url: https://music.galt.me
   - name: screen.galt.me
     url: https://screen.galt.me
   - name: text.galt.me
